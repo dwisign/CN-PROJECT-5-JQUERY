@@ -72,3 +72,14 @@
  #options li .orange{
    background: orange;
 }
+
+.whatsapp-button{
+   position: fixed;
+   bottom: 30px;
+   right: 30px;
+}
+
+.whatsapp-button .bi-whatsapp{
+   font-size: 48px;
+   color: green;
+}
